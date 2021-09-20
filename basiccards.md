@@ -400,11 +400,6 @@
     "card_detail_id": 145
   },
   {
-    "name": "Drake of Arnak",
-    "mana": 4,
-    "card_detail_id": 224
-  },
-  {
     "name": "Peaceful Giant",
     "mana": 5,
     "card_detail_id": 60
